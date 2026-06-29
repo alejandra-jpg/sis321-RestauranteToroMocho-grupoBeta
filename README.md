@@ -9,7 +9,7 @@
 
 Sistema de gestión para el restaurante ToroMocho, desarrollado como parte del curso de Sistemas de Información II. Implementa un módulo completo de autenticación y autorización con control de acceso basado en roles (RBAC) y base de datos relacional normalizada en 3FN.
 
-## 🛠️ Stack Tecnológico
+## 🛠️ Stack Tecnológico 
 
 - **Node.js** - Entorno de ejecución
 - **Express** - Framework web
